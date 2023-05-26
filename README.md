@@ -8,7 +8,7 @@ Hello there! I'm a passionate C++ and C# developer with a strong interest in sof
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [henrykwolek15@gmail.com](mailto:henrykwolek15@gmail.com)
-* 🤝  I'm open to collaborating on any C++ Project
+* 🤝  I'm open to collaborating on any C#/C++ Project
 
 ### Skills
 
