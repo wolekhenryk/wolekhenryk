@@ -7,7 +7,7 @@ C++ and C# Developer
 Hello there! I'm a passionate C++ and C# developer with a strong interest in software engineering and design. I love tackling challenging problems and creating elegant solutions that meet real-world needs. With decent time of experience in both languages, I enjoy working on a variety of projects ranging from desktop applications to web development. I'm always looking for opportunities to expand my knowledge and skills, and I'm committed to writing clean, efficient, and maintainable code. I take pride in my ability to work well in a team and communicate complex ideas effectively. Whether it's debugging an elusive bug or implementing a new feature, I'm always up for a good coding challenge. In my free time, you can find me tinkering with new technologies or contributing to open-source projects. Feel free to check out my repositories and reach out if you have any questions or project ideas! Let's work together to make the world a better place, one line of code at a time
 
 * 🌍  I'm based in Poland
-* ✉️  You can contact me at [henrykwolek15@gmail.com](mailto:henrykwolek15@gmail.com)
+* ✉️  You can contact me at [wolekhenryk@outlook.com](mailto:wolekhenryk@outlook.com)
 * 🤝  I'm open to collaborating on any C#/C++ Project
 
 ### Skills
