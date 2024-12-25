@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a .NET developer<br>👯 I’m looking to collaborate on a business automation project<br>🌱 I’m currently learning to integrate AI into my solutions<br>💬 <a href="mailto:henryk.wolek@outlook.com">henryk.wolek@outlook.com</a>
+🔭 I’m currently working as a .NET developer<br> <a href="mailto:henryk.wolek@outlook.com">henryk.wolek@outlook.com</a>
 
 
 ## 🌐 Socials:
