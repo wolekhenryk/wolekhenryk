@@ -16,6 +16,10 @@
 ![Static Badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular)
 
+![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+
+
 
 ![Static Badge](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx)
 ![Static Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
